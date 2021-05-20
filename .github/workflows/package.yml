@@ -1,4 +1,4 @@
-name: endktheme
+name: Build package
 
 on:
   push:
